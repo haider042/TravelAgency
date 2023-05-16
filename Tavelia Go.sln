@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavelia Go.Server", "Tavelia Go\Server\Tavelia Go.Server.csproj", "{32A21186-066C-4AC1-B99E-12EEB0862F14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavelia Go.Client", "Tavelia Go\Client\Tavelia Go.Client.csproj", "{250BD1F9-A442-4C6E-83AE-0E94C9372041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavelia Go.Shared", "Tavelia Go\Shared\Tavelia Go.Shared.csproj", "{9615E781-B42C-41A5-B9F9-80F463370F4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32A21186-066C-4AC1-B99E-12EEB0862F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A21186-066C-4AC1-B99E-12EEB0862F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A21186-066C-4AC1-B99E-12EEB0862F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A21186-066C-4AC1-B99E-12EEB0862F14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{250BD1F9-A442-4C6E-83AE-0E94C9372041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{250BD1F9-A442-4C6E-83AE-0E94C9372041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{250BD1F9-A442-4C6E-83AE-0E94C9372041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{250BD1F9-A442-4C6E-83AE-0E94C9372041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9615E781-B42C-41A5-B9F9-80F463370F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9615E781-B42C-41A5-B9F9-80F463370F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9615E781-B42C-41A5-B9F9-80F463370F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9615E781-B42C-41A5-B9F9-80F463370F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE6CDEF8-D05A-48C0-B79A-DB058A8574CB}
+	EndGlobalSection
+EndGlobal
